@@ -1,0 +1,14 @@
+Header
+Footer
+Title
+Chart
+Table
+Image
+FigureTitle
+Algorithm
+Formula
+Barcode
+AsideText
+Seal
+PageNumber
+Text
